@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/home/user001/anaconda3/envs/deeplearning/bin/python3.8"
+    "python.pythonPath": "/home/user001/anaconda3/envs/deeplearning/bin/python3.8",
+    "git.ignoreLimitWarning": true
 }
